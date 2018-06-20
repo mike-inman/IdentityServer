@@ -1,0 +1,1 @@
+﻿http://docs.identityserver.io/en/release/quickstarts/5_hybrid_and_api_access.html
